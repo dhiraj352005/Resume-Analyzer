@@ -155,3 +155,7 @@ Steps:
 ## Disclaimer
 - This project is developed for learning and demonstration purposes
 - AI analysis results may vary and should not be considered professional career advice
+
+- Author:
+- name: Dhiraj Umesh Raut
+- mail: dhiraj352005@gmail.com
